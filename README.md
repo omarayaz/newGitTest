@@ -1,2 +1,3 @@
 # newGitTest
-First Test Repo
+First test repository on GitHub
+I love :coffee: :pizza:, and :dancer:.
